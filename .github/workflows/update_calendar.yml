@@ -7,7 +7,10 @@ on:
   schedule:
     - cron: "0 6 * * *"   # run daily at 06:00 UTC
   workflow_dispatch:       # still allow manual runs, but no inputs
-
+  push:
+    branches:
+      - main
+      
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
