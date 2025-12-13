@@ -3,13 +3,6 @@
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
 University of Milano-Bicocca, 2025.
 
-
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2025/HEAD)
-&emsp; [![](https://custom-icon-badges.herokuapp.com/badge/launch-unimib%20virtual%20machine-orange.svg?logo=container&logoColor=white)](https://vdi-libaas.si.unimib.it/)
-
-
 ## Aims
 
 The use of statistics is ubiquitous in astronomy and astrophysics. Modern advances are made possible by the application of increasingly sophisticated tools, often dubbed "data mining", "machine learning", and "artificial intelligence". This class provides an introduction to (some of) these statistical techniques in a very practical fashion, pairing formal derivations with hands-on computational applications. Although examples will be taken almost exclusively from the realm of astronomy, this class is appropriate for all Physics students interested in machine learning.
