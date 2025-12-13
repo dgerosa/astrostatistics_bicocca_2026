@@ -139,6 +139,7 @@ Exam guidelines are available [here](exams.md). Please read that carefully.
 ## Past editions
 
 - Current: [dgerosa.github.io/astrostatistics](https://dgerosa.github.io/astrostatistics)
+- 2025: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/astrostatistics_bicocca_2025)
 - 2024: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/astrostatistics_bicocca_2024)
 - 2023: [github.com/dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
 - 2022: [github.com/dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
