@@ -91,28 +91,29 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly 
 Our schedule is as follows. [Here is a public calendar](https://calendar.google.com/calendar/embed?src=7b3eb78f345682c12c065855a0e49c6b21d2f1db72b244bf752dd534a47c6066%40group.calendar.google.com&ctz=Europe%2FRome) with the dates below, which you can import into your calendar software.
 
 <!-- CALENDAR:START -->
-1. **2026, Mar 09, 08:30am - 10:30am**. Room U7-15.
-2. **2026, Mar 12, 10:30am - 12:30pm**. Room U2-05.
-3. **2026, Mar 16, 08:30am - 10:30am**. Room U7-15.
-4. **2026, Mar 19, 10:30am - 12:30pm**. Room U2-05.
-5. **2026, Mar 23, 08:30am - 10:30am**. Room U7-15.
-6. **2026, Mar 26, 10:30am - 12:30pm**. Room U2-05.
-7. **2026, Mar 30, 08:30am - 10:30am**. Room U7-15.
-8. **2026, Apr 09, 10:30am - 12:30pm**. Room U2-05.
-9. **2026, Apr 13, 08:30am - 10:30am**. Room U7-15.
-10. **2026, Apr 16, 10:30am - 12:30pm**. Room U2-05.
-11. **2026, Apr 20, 08:30am - 10:30am**. Room U7-15.
-12. **2026, Apr 23, 10:30am - 12:30pm**. Room U2-05.
-13. **2026, Apr 27, 08:30am - 10:30am**. Room U7-15.
-14. **2026, Apr 30, 10:30am - 12:30pm**. Room U2-05.
-15. **2026, May 04, 08:30am - 10:30am**. Room U7-15.
-16. **2026, May 07, 10:30am - 12:30pm**. Room U2-05.
-17. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
-18. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
-19. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
-20. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
-21. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
-22. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
+1. **2026, Mar 02, 08:30am - 10:30am**. Room U7-15.
+2. **2026, Mar 09, 08:30am - 10:30am**. Room U7-15.
+3. **2026, Mar 12, 10:30am - 12:30pm**. Room U2-05.
+4. **2026, Mar 16, 08:30am - 10:30am**. Room U7-15.
+5. **2026, Mar 19, 10:30am - 12:30pm**. Room U2-05.
+6. **2026, Mar 23, 08:30am - 10:30am**. Room U7-15.
+7. **2026, Mar 26, 10:30am - 12:30pm**. Room U2-05.
+8. **2026, Mar 30, 08:30am - 10:30am**. Room U7-15.
+9. **2026, Apr 09, 10:30am - 12:30pm**. Room U2-05.
+10. **2026, Apr 13, 08:30am - 10:30am**. Room U7-15.
+11. **2026, Apr 16, 10:30am - 12:30pm**. Room U2-05.
+12. **2026, Apr 20, 08:30am - 10:30am**. Room U7-15.
+13. **2026, Apr 23, 10:30am - 12:30pm**. Room U2-05.
+14. **2026, Apr 27, 08:30am - 10:30am**. Room U7-15.
+15. **2026, Apr 30, 10:30am - 12:30pm**. Room U2-05.
+16. **2026, May 04, 08:30am - 10:30am**. Room U7-15.
+17. **2026, May 07, 10:30am - 12:30pm**. Room U2-05.
+18. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
+19. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
+20. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
+21. **2026, May 21, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
+22. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
+23. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
 <!-- CALENDAR:END -->
 
 ## Exams
