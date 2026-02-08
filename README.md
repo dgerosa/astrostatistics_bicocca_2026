@@ -86,9 +86,7 @@ We will make heavy usage of the python programming language. If you need to refr
 
 ## 2026 Class schedule
 
-The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes).
-
-Our schedule is as follows. [Here is a public calendar](https://calendar.google.com/calendar/embed?src=7b3eb78f345682c12c065855a0e49c6b21d2f1db72b244bf752dd534a47c6066%40group.calendar.google.com&ctz=Europe%2FRome) with the dates below, which you can import into your calendar software.
+The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our schedule is as follows. [Here is a public calendar](https://calendar.google.com/calendar/embed?src=7b3eb78f345682c12c065855a0e49c6b21d2f1db72b244bf752dd534a47c6066%40group.calendar.google.com&ctz=Europe%2FRome) with the dates below, which you can import into your calendar software.
 
 <!-- CALENDAR:START -->
 1. **2026, Mar 02, 08:30am - 10:30am**. Room U7-15.
