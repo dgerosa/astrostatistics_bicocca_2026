@@ -109,8 +109,8 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our schedul
 18. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
 19. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
 20. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
-21. **2026, May 21, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
-22. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
+21. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
+22. **2026, May 25, 08:30am - 10:30am**. Room U7-15  (backup slot in case we skip one).
 23. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
 <!-- CALENDAR:END -->
 
